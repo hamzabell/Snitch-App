@@ -1,0 +1,12 @@
+{
+  "name": "snitch",
+  "displayName": "snitch",
+  "expo": {
+    "name": "snitch",
+    "slug": "snitch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
